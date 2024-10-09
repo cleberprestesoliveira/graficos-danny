@@ -1,4 +1,4 @@
-const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globis.json'
+const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
 
 async function vizualizarInformacoesGlobais() {
     const res = await fetch(url)
@@ -17,7 +17,7 @@ async function vizualizarInformacoesGlobais() {
     <span>${minutos} minutos</span> conectadas.<br>Isso significa que aproximadamente 
     <span>${porcentagemConectada}%</span> de pessoas estão conectadas em alguma rede social.`
 
-    const container = document.getElementByld('graficos-container')
+    const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo)
 }
 
