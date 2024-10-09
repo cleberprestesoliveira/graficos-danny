@@ -9,3 +9,8 @@ Erros em informações globais
 
 linha 1 - esta escrito dados globais
 linha 20 - tem um l no lugar de um I
+
+
+Erro quantidadeUsuarios
+
+linha 1 - tem um s a mais
