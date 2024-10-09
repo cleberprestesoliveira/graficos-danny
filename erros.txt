@@ -3,3 +3,9 @@ Erros no index
 linha 8 - faltou : e as barras estão ao contrario
 linha 26 - Tem um espaço a mais antes do common
 linha 28 - faltou o type modulo
+
+
+Erros em informações globais
+
+linha 1 - esta escrito dados globais
+linha 20 - tem um l no lugar de um I
