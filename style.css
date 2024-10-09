@@ -34,7 +34,7 @@ nav a{
     margin:0 2rem 1 rem 0rem;
     font-size: 1.2rem;
 }
-nav a:houver{
+nav a:hover{
     text-decoration: underline;
     transform: scale(0.90);
     transition: transform 0.1s;
